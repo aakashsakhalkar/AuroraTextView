@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AuroraTextView">
+        <attr name="startColor" format="color" />
+        <attr name="endColor" format="color" />
+        <attr name="angle" format="float" />
+        <attr name="gradientType">
+            <enum name="linear" value="0" />
+            <enum name="radial" value="1" />
+            <enum name="sweep" value="2" />
+        </attr>
+
+        <!-- Optional add-ons -->
+        <attr name="animated" format="boolean" /> <!-- enable moving gradient -->
+        <attr name="animationSpeed" format="integer" /> <!-- in ms -->
+        <attr name="strokeWidth" format="dimension" />
+        <attr name="strokeColor" format="color" />
+        <attr name="perLetterGradient" format="boolean" />
+        <attr name="autoDarkMode" format="boolean" />
+    </declare-styleable>
+</resources>
