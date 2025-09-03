@@ -1,4 +1,4 @@
-![AuroraTextView Demo](assets/demo.png)
+![AuroraTextView Demo](screenshot.png)
 
 # AuroraTextView 🌌
 
