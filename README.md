@@ -1,3 +1,5 @@
+![AuroraTextView Demo](demo.png)
+
 # AuroraTextView 🌌
 
 A customizable Android TextView with gradient, stroke, animation, and dark mode support.
